@@ -1,7 +1,7 @@
 {
-  "name": "arrayVerify",
+  "name": "array-verify",
   "version": "1.0.0",
-  "description": "",
+  "description": "array-verify ajuda no trabalho com arrays.",
   "main": "arrayVerify.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/Laecio12/arrayVerify.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["array"],
+  "author": "Laecio Silva",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Laecio12/arrayVerify/issues"
