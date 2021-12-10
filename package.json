@@ -1,0 +1,20 @@
+{
+  "name": "arrayVerify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrayVerify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laecio12/arrayVerify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laecio12/arrayVerify/issues"
+  },
+  "homepage": "https://github.com/Laecio12/arrayVerify#readme"
+}
